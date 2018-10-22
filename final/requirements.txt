@@ -1,0 +1,11 @@
+nltk
+requests
+tqdm
+gym
+retrying
+textrank4zh
+gensim
+matplotlib
+torchtext
+dill
+sklearn

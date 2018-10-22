@@ -1,0 +1,9 @@
+grequests
+retrying
+requests
+numpy
+scikit-learn
+zb
+gensim
+jieba
+thulac
